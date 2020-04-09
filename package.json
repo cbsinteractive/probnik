@@ -41,7 +41,7 @@
     "webpack-cli": "^3.3.2"
   },
   "publishConfig": {
-      "access": "public",
-      "registry": "https://registry.npmjs.org/"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
